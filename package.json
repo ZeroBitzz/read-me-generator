@@ -1,5 +1,21 @@
 {
-  "dependencies": {
-    "inquirer": "^9.1.4"
-  }
+  "name": "read-me-generator",
+  "version": "1.0.0",
+  "description": "generate a readme.md",
+  "main": "app.js",
+  "type":"module",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZeroBitzz/read-me-generator.git"
+  },
+  "author": "Broderick",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZeroBitzz/read-me-generator/issues"
+  },
+  "homepage": "https://github.com/ZeroBitzz/read-me-generator#readme"
 }
