@@ -58,7 +58,7 @@ const questions = [
     },
     {
         type: 'input',
-        name: 'contributions',
+        name: 'contributing',
         message: 'Are contributions open? If so, how should someone contribute?',
         default: 'None'
     },
