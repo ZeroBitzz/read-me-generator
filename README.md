@@ -7,5 +7,8 @@ Wanna simplify making a readme.md file for your project? Just download this app 
 ## Installation and usage
 Simply download the app from github, run npm init in the files root folder, then finally just run node app.js for as many projects as you need!(node not included)
 
+## walkthrough video
+https://www.loom.com/share/47a0a1651a6a419a8d5f0dac24af128b
+
 ## License
 MIT
